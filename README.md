@@ -48,11 +48,11 @@ Text Editor with Emojis is a simple and user-friendly text editor implemented in
    ```
    
 2. Run the application:
-
-  ```bash
-  Copy code
-  python your_text_editor.py
-  ```
+  
+    ```bash
+    Copy code
+    python your_text_editor.py
+    ```
 
 ## Customization
 
