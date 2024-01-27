@@ -2,7 +2,7 @@
 
 Text Editor with Emojis is a simple and user-friendly text editor implemented in Python using the Tkinter library. This text editor allows users to create, edit, save, and open text files. Additionally, it features emoji insertions to add a touch of fun to your text!
 
-[sample](sample.jpg)
+![sample](sample.jpg)
 
 ## Features
 
